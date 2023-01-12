@@ -204,6 +204,7 @@ body {
   width: 615px;
   height: 615px;
   background: url('../img/bg_lottery.png') center no-repeat;
+  transform: scale(0.8,0.8);
 }
 .lottery-wrap {
   position: relative;
